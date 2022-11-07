@@ -1,0 +1,17 @@
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\bin\Debug\net6.0-windows\Lista_filmow1.exe
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\bin\Debug\net6.0-windows\Lista_filmow1.deps.json
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\bin\Debug\net6.0-windows\Lista_filmow1.runtimeconfig.json
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\bin\Debug\net6.0-windows\Lista_filmow1.dll
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\bin\Debug\net6.0-windows\Lista_filmow1.pdb
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.csproj.AssemblyReference.cache
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.csproj.GenerateResource.cache
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.AssemblyInfoInputs.cache
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.AssemblyInfo.cs
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.csproj.CoreCompileInputs.cache
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.dll
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\refint\Lista_filmow1.dll
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.pdb
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.genruntimeconfig.cache
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\ref\Lista_filmow1.dll
+C:\Users\kolodziejczyk.jakub\source\repos\Lista_filmow1\Lista_filmow1\obj\Debug\net6.0-windows\Lista_filmow1.Filmy.resources
